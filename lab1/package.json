@@ -1,7 +1,0 @@
-{
-  "dependencies": {
-    "chalk": "^4.1.1",
-    "commander": "^9.1.0",
-    "prompt-sync": "^4.2.0"
-  }
-}
